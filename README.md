@@ -4,7 +4,7 @@
 - This application is designed to generate text in the specified number of paragraphs.
 - The application can be tested from the [link](https://s1een.github.io/react-lorem-ipsum-app/ "link").
 
-# React Menu App
+# React Lorem Ipsum App
 
 ![](https://github.com/s1een/react-lorem-ipsum-app/blob/master/public/images/img.PNG?raw=true)
 
