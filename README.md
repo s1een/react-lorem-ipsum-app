@@ -6,7 +6,7 @@
 
 # React Menu App
 
-![](https://miro.medium.com/max/1000/0*aHvK7Rbt_Dv74mWq.png)
+![](https://github.com/s1een/react-lorem-ipsum-app/blob/master/public/images/img.PNG?raw=true)
 
 ## Technologies used in the development:
 
